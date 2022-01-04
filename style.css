@@ -39,6 +39,7 @@ p{
     background-repeat: no-repeat;
     background-position: right;
 }
-.experience-area{
-
+.experience-item{
+    width: 50%;
+    padding-left: 30px;
 }
