@@ -56,7 +56,7 @@ p{
 }
 #fullstack-border{
     border-left: 7px solid;
-    border-image: linear-gradient(orange, tomato);
+    border-image: linear-gradient(salmon, tomato);
     border-image-slice: 1;
 }
 #babyweb-border{
