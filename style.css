@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 p{
     text-align: justify;
 }
@@ -39,7 +42,14 @@ p{
     background-repeat: no-repeat;
     background-position: right;
 }
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
 .experience-item{
+    box-shadow: 10px 10px 40px gray;
     width: 50%;
-    padding-left: 30px;
+    padding: 30px;
+    margin: 20px;
 }
