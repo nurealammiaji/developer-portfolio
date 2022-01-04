@@ -50,6 +50,7 @@ p{
 .experience-item{
     box-shadow: 10px 10px 40px gray;
     width: 50%;
-    padding: 30px;
-    margin: 20px;
+    padding: 20px 65px;
+    margin: 20px 40px;
+    border-radius: 10px;
 }
